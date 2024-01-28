@@ -1,1 +1,1 @@
-# instructions-for-the-collection
+### Информация об использовании Postman коллекции :
